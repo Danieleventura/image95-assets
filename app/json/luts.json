@@ -47,7 +47,8 @@
             "name": "Blues",
             "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Blues.png",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Blues.jpg",
-            "overlayPath": null
+            "overlayPath": null,
+            "premium": true
         },
         {
             "id": "Brooklyn",
@@ -61,7 +62,8 @@
             "name": "80",
             "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/80.PNG",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/80.jpg",
-            "overlayPath": null
+            "overlayPath": null,
+            "premium": true
         },
         {
             "id": "Astronomy",
@@ -103,7 +105,8 @@
             "name": "Film",
             "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Film.png",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Film.jpg",
-            "overlayPath": null
+            "overlayPath": null,
+            "premium": true
         },
         {
             "id": "Flash",
@@ -117,7 +120,8 @@
             "name": "Focused",
             "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Focused.png",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Focused.jpg",
-            "overlayPath": null
+            "overlayPath": null,
+            "premium": true
         },
         {
             "id": "Flash VHS",
@@ -145,7 +149,8 @@
             "name": "Hydraulic",
             "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Hydraulic.PNG",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Hydraulic.jpg",
-            "overlayPath": null
+            "overlayPath": null,
+            "premium": true
         },
         {
             "id": "Idontcare",
@@ -159,7 +164,8 @@
             "name": "Kodak",
             "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Kodak.png",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Kodak.jpg",
-            "overlayPath": null
+            "overlayPath": null,
+            "premium": true
         },
         {
             "id": "Memory",
@@ -173,7 +179,8 @@
             "name": "November",
             "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/November.PNG",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/November.jpg",
-            "overlayPath": null
+            "overlayPath": null,
+            "premium": true
         },
         {
             "id": "Outlast",
@@ -194,7 +201,8 @@
             "name": "Purple",
             "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Purple.PNG",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Purple.jpg",
-            "overlayPath": null
+            "overlayPath": null,
+            "premium": true
         },
         {
             "id": "Retro",
@@ -229,7 +237,8 @@
             "name": "Summer",
             "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Summer.PNG",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Summer.png",
-            "overlayPath": null
+            "overlayPath": null,
+            "premium": true
         },
         {
             "id": "Sunburn",
@@ -257,7 +266,8 @@
             "name": "The Cure",
             "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/TheCure.PNG",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/TheCure.jpg",
-            "overlayPath": null
+            "overlayPath": null,
+            "premium": true
         },
         {
             "id": "TheOne",
@@ -293,6 +303,118 @@
             "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Yea.png",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Yea.jpg",
             "overlayPath": null
+        },
+        {
+            "id": "2000s",
+            "name": "2000s",
+            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/2000s.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/2000s.jpg",
+            "overlayPath": null,
+            "premium": true
+        },
+        {
+            "id": "B&W",
+            "name": "B&W",
+            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/B&W.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/B&W.jpg",
+            "overlayPath": null
+        },
+        {
+            "id": "BadRetro",
+            "name": "Bad Retro",
+            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/BadRetro.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/BadRetro.jpg",
+            "overlayPath": null
+        },
+        {
+            "id": "Chaotic",
+            "name": "Chaotic",
+            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Chaotic.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Chaotic.jpg",
+            "overlayPath": null
+        },
+        {
+            "id": "Expo",
+            "name": "Expo",
+            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Expo.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Expo.jpg",
+            "overlayPath": null,
+            "premium": true
+        },
+        {
+            "id": "FallenAngel",
+            "name": "Fallen Angel",
+            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/FallenAngel.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/FallenAngel.jpg",
+            "overlayPath": null,
+            "premium": true
+        },
+        {
+            "id": "Grunge",
+            "name": "Grunge",
+            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Grunge.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Grunge.jpg",
+            "overlayPath": null
+        },
+        {
+            "id": "Ilusion",
+            "name": "Ilusion",
+            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Ilusion.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Ilusion.jpg",
+            "overlayPath": null
+        },
+        {
+            "id": "Menta",
+            "name": "Menta",
+            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Menta.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Menta.jpg",
+            "overlayPath": null,
+            "premium": true
+        },
+        {
+            "id": "MidnightClub",
+            "name": "Midnight Club",
+            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/MidnightClub.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/MidnightClub.jpg",
+            "overlayPath": null
+        },
+        {
+            "id": "NoFlash",
+            "name": "No Flash",
+            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/NoFlash.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/NoFlash.jpg",
+            "overlayPath": null,
+            "premium": true
+        },
+        {
+            "id": "Rainbow",
+            "name": "Rainbow",
+            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Rainbow.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Rainbow.jpg",
+            "overlayPath": null,
+            "premium": true
+        },
+        {
+            "id": "VintageCore",
+            "name": "Vintage Core",
+            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/VintageCore.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/VintageCore.jpg",
+            "overlayPath": null
+        },
+        {
+            "id": "Yo",
+            "name": "Yo",
+            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Yo.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Yo.jpg",
+            "overlayPath": null
+        },
+        {
+            "id": "Zero",
+            "name": "Zero",
+            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Zero.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Zero.jpg",
+            "overlayPath": null,
+            "premium": true
         }
     ]
 }

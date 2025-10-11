@@ -1,81 +1,110 @@
 {
     "presets": [
         {
-        "id": "Cinematic",
-        "name": "Cinematic",
-        "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Cinematic.PNG",
-        "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/1990.jpg",
-        "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/RainbowLeak.jpg",
-        "blendMode": 2
-    },
-    {
-        "id": "PinkRec",
-        "name": "Pink Rec",
-        "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/PinkRec.PNG",
-        "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Focused.jpg",
-        "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/RECMarker.jpg",
-        "blendMode": 2,
-        "sharpen": 1.4
-    },
-    {
-        "id": "Punk",
-        "name": "Punk",
-        "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Punk.PNG",
-        "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Purple.jpg",
-        "overlayPath": null,
-        "pixelation": 4,
-        "noise": 1.1,
-        "intensity": 0.8,
-        "premium": true
-    },
-    {
-        "id": "1111",
-        "name": "1111",
-        "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/1111.PNG",
-        "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Hydraulic.jpg",
-        "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/101011.jpg",
-        "blendMode": 2,
-        "noise": 1,
-        "premium": true
-    },
-    {
-        "id": "NightCam",
-        "name": "Night Cam",
-        "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/NightCam.PNG",
-        "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Outlast.jpg",
-        "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/SilentFilm.jpg",
-        "blendMode": 2,
-        "noise": 1,
-        "pixelation": 2.5
-    },
-    {
-        "id": "ShineStars",
-        "name": "Shine Stars",
-        "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/ShineStars.PNG",
-        "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/TheCure.jpg",
-        "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/Window.jpg",
-        "overlayPath2": "https://danieleventura.github.io/image95-assets/Overlays/ShineStars.jpg",
-        "blendMode": 3,
-        "blendMode2": 2
-    },
-    {
-        "id": "October",
-        "name": "October",
-        "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/October.PNG",
-        "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Idontcare.jpg",
-        "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/DustyFilm.jpg",
-        "overlayPath2": "https://danieleventura.github.io/image95-assets/Overlays/FilmBurn.jpg",
-        "blendMode": 2,
-        "blendMode2": 2,
-        "blur": 0.3
-    },
-    {
-        "id": "Log",
-        "name": "Log",
-        "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Log.PNG",
-        "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Blues.jpg",
-        "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/Window.jpg",
-        "blendMode": 3
-    }
+            "id": "Cinematic",
+            "name": "Cinematic",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Cinematic.PNG",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/1990.jpg",
+            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/RainbowLeak.jpg",
+            "blendMode": 2
+        },
+        {
+            "id": "Season",
+            "name": "Season",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Cinematic.PNG",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Taxi95.jpg",
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Shine.jpg",
+            "blendMode": 2,
+            "overlayPath2": "https://danieleventura.github.io/image95-assets/Overlays/FilmBurn.jpg",
+            "blendMode2": 2,
+            "sharpen": 0.8
+        },
+        {
+            "id": "Popular",
+            "name": "Popular",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Cinematic.PNG",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Ilusion.jpg",
+            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/RECMarker.jpg",
+            "blendMode": 2,
+            "pixelation": 3.5
+        },
+        {
+            "id": "B&W",
+            "name": "B&W",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Cinematic.PNG",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/B&W.jpg",
+            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/RetroNoise.jpg",
+            "blendMode": 2,
+            "noise": 1.6
+        },
+        {
+            "id": "PinkRec",
+            "name": "Pink Rec",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/PinkRec.PNG",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Focused.jpg",
+            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/RECMarker.jpg",
+            "blendMode": 2,
+            "sharpen": 1.4
+        },
+        {
+            "id": "Punk",
+            "name": "Punk",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Punk.PNG",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Purple.jpg",
+            "overlayPath": null,
+            "pixelation": 4,
+            "noise": 1.1,
+            "intensity": 0.8,
+            "premium": true
+        },
+        {
+            "id": "1111",
+            "name": "1111",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/1111.PNG",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Hydraulic.jpg",
+            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/101011.jpg",
+            "blendMode": 2,
+            "noise": 1,
+            "premium": true
+        },
+        {
+            "id": "NightCam",
+            "name": "Night Cam",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/NightCam.PNG",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Outlast.jpg",
+            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/SilentFilm.jpg",
+            "blendMode": 2,
+            "noise": 1,
+            "pixelation": 2.5
+        },
+        {
+            "id": "ShineStars",
+            "name": "Shine Stars",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/ShineStars.PNG",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/TheCure.jpg",
+            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/Window.jpg",
+            "overlayPath2": "https://danieleventura.github.io/image95-assets/Overlays/ShineStars.jpg",
+            "blendMode": 3,
+            "blendMode2": 2
+        },
+        {
+            "id": "October",
+            "name": "October",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/October.PNG",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Idontcare.jpg",
+            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/DustyFilm.jpg",
+            "overlayPath2": "https://danieleventura.github.io/image95-assets/Overlays/FilmBurn.jpg",
+            "blendMode": 2,
+            "blendMode2": 2,
+            "blur": 0.3
+        },
+        {
+            "id": "Log",
+            "name": "Log",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Log.PNG",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Blues.jpg",
+            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/Window.jpg",
+            "blendMode": 3
+        }
     ]
 }

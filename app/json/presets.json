@@ -11,7 +11,7 @@
         {
             "id": "Season",
             "name": "Season",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Season.PNG",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Season.png",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Taxi95.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Shine.jpg",
             "blendMode": 2,
@@ -22,7 +22,7 @@
         {
             "id": "Popular",
             "name": "Popular",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Popular.PNG",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Popular.png",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Ilusion.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/RECMarker.jpg",
             "blendMode": 2,
@@ -31,7 +31,7 @@
         {
             "id": "B&W",
             "name": "B&W",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/B&W.PNG",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/B&W.png",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/B&W.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/RetroNoise.jpg",
             "blendMode": 2,

@@ -68,7 +68,7 @@
             "id": "Analog",
             "name": "Analog",
             "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Analog.jpg",
-            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/AnalogBlur.jpg",
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Analog.jpg",
             "lutPath": null,
             "blendMode": 2
         },
@@ -83,7 +83,7 @@
         {
             "id": "PinkLightII",
             "name": "Pink Light II",
-            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/PinkLightII.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/PinkLight.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/PinkLight.jpg",
             "lutPath": null,
             "blendMode": 2

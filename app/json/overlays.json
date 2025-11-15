@@ -3,7 +3,7 @@
         {
             "id": "RainbowLeak",
             "name": "Rainbow Leak",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/RainbowLeak.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/RainbowLeak.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/RainbowLeak.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -11,7 +11,7 @@
         {
             "id": "ChaosDoodles",
             "name": "Chaos Doodles",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/ChaosDoodles.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/ChaosDoodles.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/ChaosDoodles.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -19,7 +19,7 @@
         {
             "id": "Symbols",
             "name": "Symbols",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Symbols.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Symbols.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Symbols.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -27,7 +27,7 @@
         {
             "id": "BunnyEars",
             "name": "Bunny Ears",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/BunnyEars.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/BunnyEars.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/BunnyEars.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -35,7 +35,7 @@
         {
             "id": "PastelStars",
             "name": "Pastel Stars",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/PastelStars.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/PastelStars.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/PastelStars.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -43,7 +43,7 @@
         {
             "id": "YellowFrame",
             "name": "Yellow Frame",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/YellowFrame.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/YellowFrame.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/YellowFrame.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -51,7 +51,7 @@
         {
             "id": "StarrySky",
             "name": "Starry Sky",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/StarrySky.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/StarrySky.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/StarrySky.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -59,7 +59,7 @@
         {
             "id": "NeonStar",
             "name": "Neon Star",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/NeonStar.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/NeonStar.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/NeonStar.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -67,7 +67,7 @@
         {
             "id": "Analog",
             "name": "Analog",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Analog.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Analog.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/AnalogBlur.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -75,7 +75,7 @@
         {
             "id": "GlitchTV",
             "name": "Glitch TV",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/GlitchTV.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/GlitchTV.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/GlitchTV.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -83,7 +83,7 @@
         {
             "id": "PinkLightII",
             "name": "Pink Light II",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/PinkLightII.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/PinkLightII.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/PinkLight.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -91,7 +91,7 @@
         {
             "id": "Shine",
             "name": "Shine",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Shine.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Shine.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Shine.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -99,7 +99,7 @@
         {
             "id": "Sparkles",
             "name": "Sparkles",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Sparkles.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Sparkles.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Sparkles.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -107,7 +107,7 @@
         {
             "id": "Glitch",
             "name": "Glitch",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Glitch.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Glitch.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Glitch.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -115,7 +115,7 @@
         {
             "id": "CupidsMark",
             "name": "Cupid’s Mark",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CupidsMark.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/CupidsMark.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/CupidsMark.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -123,7 +123,7 @@
         {
             "id": "Static",
             "name": "Static",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Static.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Static.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/Static.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -131,7 +131,7 @@
         {
             "id": "LightLeak",
             "name": "Light Leak",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/LightLeak.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/LightLeak.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/LightLeak.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -139,7 +139,7 @@
         {
             "id": "SilentFilm",
             "name": "Silent Film",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/SilentFilm.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/SilentFilm.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/SilentFilm.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -147,7 +147,7 @@
         {
             "id": "FatalError",
             "name": "Fatal Error",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/FatalError.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/FatalError.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/FatalError.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -155,7 +155,7 @@
         {
             "id": "RealFriends",
             "name": "Real Friends",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/RealFriends.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/RealFriends.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/RealFriends.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -163,7 +163,7 @@
         {
             "id": "Starlight",
             "name": "Starlight",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Starlight.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Starlight.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/Starlight.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -171,7 +171,7 @@
         {
             "id": "VHS",
             "name": "VHS",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/VHS.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/VHS.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/VHS.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -179,7 +179,7 @@
         {
             "id": "GreenDVD",
             "name": "Green DVD",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/GreenDVD.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/GreenDVD.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/GreenDVD.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -187,7 +187,7 @@
         {
             "id": "PurpleDVD",
             "name": "Purple DVD",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/PurpleDVD.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/PurpleDVD.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/PurpleDVD.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -195,7 +195,7 @@
         {
             "id": "BlueDVD",
             "name": "Blue DVD",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/BlueDVD.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/BlueDVD.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/BlueDVD.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -203,7 +203,7 @@
         {
             "id": "Twinkle",
             "name": "Twinkle",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Twinkle.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Twinkle.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/Twinkle.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -211,7 +211,7 @@
         {
             "id": "Play",
             "name": "Play",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Play.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Play.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/Play.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -219,7 +219,7 @@
         {
             "id": "SEGA",
             "name": "SEGA",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/SEGA.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/SEGA.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/SEGA.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -227,7 +227,7 @@
         {
             "id": "RECMarker",
             "name": "REC Marker",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/RECMarker.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/RECMarker.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/RECMarker.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -235,7 +235,7 @@
         {
             "id": "Heartbeats",
             "name": "Heartbeats",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Heartbeats.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Heartbeats.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/Heartbeats.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -243,7 +243,7 @@
         {
             "id": "Starburst",
             "name": "Starburst",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Starburst.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Starburst.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/Starburst.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -251,7 +251,7 @@
         {
             "id": "101011",
             "name": "101011",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/101011.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/101011.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/101011.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -259,7 +259,7 @@
         {
             "id": "101010",
             "name": "101010",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/101010.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/101010.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/101010.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -267,7 +267,7 @@
         {
             "id": "BlueFilm",
             "name": "Blue Film",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/BlueFilm.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/BlueFilm.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/BlueFilm.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -275,7 +275,7 @@
         {
             "id": "ShineStars",
             "name": "Shine Stars",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/ShineStars.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/ShineStars.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/ShineStars.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -283,7 +283,7 @@
         {
             "id": "NeonFish",
             "name": "Neon Fish",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/NeonFish.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/NeonFish.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/NeonFish.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -291,7 +291,7 @@
         {
             "id": "NeonRays",
             "name": "Neon Rays",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/NeonRays.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/NeonRays.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/NeonRays.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -299,7 +299,7 @@
         {
             "id": "1992Cam",
             "name": "1992 Cam",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/1992Cam.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/1992Cam.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/1992Cam.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -307,7 +307,7 @@
         {
             "id": "Hearts",
             "name": "Hearts",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Hearts.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Hearts.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/Hearts.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -315,7 +315,7 @@
         {
             "id": "Sparkle",
             "name": "Sparkle",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Sparkle.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Sparkle.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/Sparkle.jpg",
             "lutPath": null,
             "blendMode": 3
@@ -323,7 +323,7 @@
         {
             "id": "Window",
             "name": "Window",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Window.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Window.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/Window.jpg",
             "lutPath": null,
             "blendMode": 3
@@ -331,7 +331,7 @@
         {
             "id": "FlashLeak",
             "name": "Flash Leak",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/FlashLeak.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/FlashLeak.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/FlashLeak.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -339,7 +339,7 @@
         {
             "id": "OKOK",
             "name": "OK OK",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/OKOK.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/OKOK.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/OKOK.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -347,7 +347,7 @@
         {
             "id": "AnalogBlur",
             "name": "Analog Blur",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/AnalogBlur.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/AnalogBlur.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/AnalogBlur.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -355,7 +355,7 @@
         {
             "id": "PinkHearts",
             "name": "Pink Hearts",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/PinkHearts.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/PinkHearts.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/PinkHearts.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -363,7 +363,7 @@
         {
             "id": "PinkLight",
             "name": "Pink Light",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/PinkLight.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/PinkLight.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/PinkLight.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -371,7 +371,7 @@
         {
             "id": "Water",
             "name": "Water",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Water.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Water.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/Water.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -379,7 +379,7 @@
         {
             "id": "PinkWater",
             "name": "Pink Water",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/PinkWater.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/PinkWater.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/PinkWater.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -387,7 +387,7 @@
         {
             "id": "???",
             "name": "???",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/interrogacao.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/interrogacao.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/interrogacao.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -395,7 +395,7 @@
         {
             "id": "BlueHearts",
             "name": "Blue Hearts",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/BlueHearts.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/BlueHearts.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/BlueHearts.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -403,7 +403,7 @@
         {
             "id": "DustyFilm",
             "name": "Dusty Film",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/DustyFilm.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/DustyFilm.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/DustyFilm.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -411,7 +411,7 @@
         {
             "id": "FilmBurn",
             "name": "Film Burn",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/FilmBurn.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/FilmBurn.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/FilmBurn.jpg",
             "lutPath": null,
             "blendMode": 2
@@ -419,7 +419,7 @@
         {
             "id": "RetroNoise",
             "name": "Retro Noise",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/RetroNoise.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/RetroNoise.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/RetroNoise.jpg",
             "lutPath": null,
             "blendMode": 2

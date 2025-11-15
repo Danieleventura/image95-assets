@@ -1,13 +1,6 @@
 {
     "luts": [
         {
-            "id": "original",
-            "name": "Original",
-            "img": "https://danieleventura.github.io/image95-assets/Filters/Default_borsmr.png",
-            "lutPath": null,
-            "overlayPath": null
-        },
-        {
             "id": "1990",
             "name": "1990",
             "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/1990.png",

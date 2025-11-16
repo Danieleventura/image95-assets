@@ -169,12 +169,6 @@
         "framePath": "https://danieleventura.github.io/image95-assets/Frames/NeonPurple.png"
     },
     {
-        "id": "RetroFlowers",
-        "name": "Retro Flowers",
-        "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/RetroFlowers.png",
-        "framePath": "https://danieleventura.github.io/image95-assets/Frames/RetroFlowers.png"
-    },
-    {
         "id": "EmoVibes",
         "name": "Emo Vibes",
         "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/EmoVibes.png",
@@ -193,12 +187,6 @@
         "framePath": "https://danieleventura.github.io/image95-assets/Frames/CDCover.png"
     },
     {
-        "id": "ClassicBlack",
-        "name": "Classic Black",
-        "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/ClassicBlack.png",
-        "framePath": "https://danieleventura.github.io/image95-assets/Frames/ClassicBlack.png"
-    },
-    {
         "id": "Rainbow",
         "name": "Rainbow",
         "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/RainbowButterflies.png",
@@ -215,12 +203,6 @@
         "name": "Butterflies",
         "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/Butterflies.png",
         "framePath": "https://danieleventura.github.io/image95-assets/Frames/Butterflies.png"
-    },
-    {
-        "id": "Stars",
-        "name": "Stars",
-        "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/Stars.png",
-        "framePath": "https://danieleventura.github.io/image95-assets/Frames/Stars.png"
     },
     {
         "id": "BlackGlow",

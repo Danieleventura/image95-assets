@@ -1,0 +1,184 @@
+{
+    "patterns": [
+        {
+            "name": "Toxic Bear",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/ToxicBear_c73ifd.svg"
+        },
+        {
+            "name": "Dolphins",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/Dolphins_km3lox.svg"
+        },
+        {
+            "name": "Precious Gem",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/PreciousGem_zhcdbl.svg"
+        },
+        {
+            "name": "Black Stars",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/BlackStars_zaxlsj.svg"
+        },
+        {
+            "name": "Glowing Stars",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/GlowingStars_ixkuwi.svg"
+        },
+        {
+            "name": "Sparkles",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/Sparkles_guqvic.svg"
+        },
+        {
+            "name": "Flaming Heart",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/FlamingHeart_n4ogvg.svg"
+        },
+        {
+            "name": "Y2K Star",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/Y2KStar_rnjok6.svg"
+        },
+        {
+            "name": "Smiley",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/Smiley_yzsabe.svg"
+        },
+        {
+            "name": "Yellow Stars",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/YellowStars_xlk16u.svg"
+        },
+        {
+            "name": "White Stars",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/WhiteStars_dhpbek.svg"
+        },
+        {
+            "name": "Pink Stars",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/PinkStars_n3vnwd.svg"
+        },
+        {
+            "name": "Candycore",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/Candycore_ucijkd.svg"
+        },
+        {
+            "name": "Neon Drip",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/NeonDrip_c9b1qs.svg"
+        },
+        {
+            "name": "Glitter",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/Glitter_uziaku.svg"
+        },
+        {
+            "name": "Bubbles",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/Bubbles_unqwqq.svg"
+        },
+        {
+            "name": "Fairy Glitter",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/FairyGlitter_c3os42.svg"
+        },
+        {
+            "name": "Cutie Heart",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/CutieHeart_gdow2d.svg"
+        },
+        {
+            "name": "Butterflies",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/Butterflies_rngnls.svg"
+        },
+        {
+            "name": "Green Hearts",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/GreenHearts_hccxpx.svg"
+        },
+        {
+            "name": "Hearts",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/Hearts_y7ggov.svg"
+        },
+        {
+            "name": "Metal Hearts",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/MetalHearts_jrpihl.svg"
+        },
+        {
+            "name": "Pink Money",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/PinkMoney_i9sn1q.svg"
+        },
+        {
+            "name": "Money",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/Money_wjaxkn.svg"
+        },
+        {
+            "name": "Bears",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/Bears_y6drjp.svg"
+        },
+        {
+            "name": "Metal Stars",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/MetalStars_x6sj01.svg"
+        },
+        {
+            "name": "Strawberries",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/Strawberries_usi7hj.svg"
+        },
+        {
+            "name": "BlueStarts",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/BlueStarts_s5kdne.svg"
+        },
+        {
+            "name": "Green Crystals",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/GreenCrystals_akvjru.svg"
+        },
+        {
+            "name": "Golden Stars",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/GoldenStars_ej6jsn.svg"
+        },
+        {
+            "name": "Eggs",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/Eggs_ezu70w.svg"
+        },
+        {
+            "name": "Dreamy Stars",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/DreamyStars_bhi6ou.svg"
+        },
+        {
+            "name": "Balloons",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/Balloons_lcxaz9.svg"
+        },
+        {
+            "name": "Arcade Ghosts",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/ArcadeGhosts_ygrcvc.svg"
+        },
+        {
+            "name": "Sparkle Light",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/SparkleLight_cjatk8.svg"
+        },
+        {
+            "name": "T-Rex",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/T-Rex_qnsgyw.svg"
+        },
+        {
+            "name": "Dino",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/Dino_n4wifc.svg"
+        },
+        {
+            "name": "Warning",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/Warning_chptbx.svg"
+        },
+        {
+            "name": "Pink Cupids",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/PinkCupids_c5r4vw.svg"
+        },
+        {
+            "name": "Glitter Stars",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/GlitterStars_lc4r8j.svg"
+        },
+        {
+            "name": "Retro Stars",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/RetroStars_iaordc.svg"
+        },
+        {
+            "name": "Pixel Cursors",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/PixelCursors_gryaxp.svg"
+        },
+        {
+            "name": "Rainbow Stars",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/RainbowStars_cc4iez.svg"
+        },
+        {
+            "name": "Pearls",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/Pearls_ja9how.svg"
+        },
+        {
+            "name": "Pixel Duck",
+            "img": "https://danieleventura.github.io/image95-assets/Patterns/PixelDuck_uhiedj.svg"
+        }
+    ]
+}

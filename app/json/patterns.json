@@ -1,11 +1,17 @@
 {
     "patterns": [
-        {   
+        {
             "id": "ToxicBear",
             "name": "Toxic Bear",
             "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/ToxicBear_c73ifd.png"
         },
-        {   
+        {
+            "id": "AquaFish",
+            "name": "Aqua Fish",
+            "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/AquaFish.png",
+            "premium": true
+        },
+        {
             "id": "Dolphins",
             "name": "Dolphins",
             "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/Dolphins_km3lox.png"
@@ -26,6 +32,12 @@
             "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/GlowingStars_ixkuwi.png"
         },
         {
+            "id": "BubblePop",
+            "name": "Bubble Pop",
+            "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/BubblePop.png",
+            "premium": true
+        },
+        {
             "id": "Sparkles",
             "name": "Sparkles",
             "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/Sparkles_guqvic.png"
@@ -34,6 +46,18 @@
             "id": "FlamingHeart",
             "name": "Flaming Heart",
             "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/FlamingHeart_n4ogvg.png"
+        },
+        {
+            "id": "Cool",
+            "name": "Cool",
+            "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/Cool.png",
+            "premium": true
+        },
+        {
+            "id": "CuteDog",
+            "name": "Cute Dog",
+            "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/CuteDog.png",
+            "premium": true
         },
         {
             "id": "Y2KStar",
@@ -71,6 +95,12 @@
             "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/NeonDrip_c9b1qs.png"
         },
         {
+            "id": "Diva",
+            "name": "Diva",
+            "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/Diva.png",
+            "premium": true
+        },
+        {
             "id": "Glitter",
             "name": "Glitter",
             "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/Glitter_uziaku.png"
@@ -86,9 +116,27 @@
             "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/FairyGlitter_c3os42.png"
         },
         {
+            "id": "SexyAngel",
+            "name": "Sexy Angel",
+            "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/SexyAngel.png",
+            "premium": true
+        },
+        {
+            "id": "SparklingStars",
+            "name": "Sparkling Stars",
+            "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/SparklingStars.png",
+            "premium": true
+        },
+        {
             "id": "CutieHeart",
             "name": "Cutie Heart",
             "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/CutieHeart_gdow2d.png"
+        },
+        {
+            "id": "ET",
+            "name": "ET",
+            "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/ET.png",
+            "premium": true
         },
         {
             "id": "Butterflies",
@@ -101,6 +149,12 @@
             "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/GreenHearts_hccxpx.png"
         },
         {
+            "id": "RetroFolders",
+            "name": "Retro Folders",
+            "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/RetroFolders.png",
+            "premium": true
+        },
+        {
             "id": "Hearts",
             "name": "Hearts",
             "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/Hearts_y7ggov.png"
@@ -109,6 +163,18 @@
             "id": "MetalHearts",
             "name": "Metal Hearts",
             "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/MetalHearts_jrpihl.png"
+        },
+        {
+            "id": "PinkPlayboy",
+            "name": "Pink Playboy",
+            "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/PinkPlayboy.png",
+            "premium": true
+        },
+        {
+            "id": "Playboy",
+            "name": "Playboy",
+            "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/Playboy.png",
+            "premium": true
         },
         {
             "id": "PinkMoney",
@@ -126,6 +192,18 @@
             "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/Bears_y6drjp.png"
         },
         {
+            "id": "FunShark",
+            "name": "Fun Shark",
+            "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/FunShark.png",
+            "premium": true
+        },
+        {
+            "id": "GirlySkulls",
+            "name": "Girly Skulls",
+            "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/GirlySkulls.png",
+            "premium": true
+        },
+        {
             "id": "MetalStars",
             "name": "Metal Stars",
             "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/MetalStars_x6sj01.png"
@@ -139,6 +217,12 @@
             "id": "BlueStarts",
             "name": "BlueStarts",
             "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/BlueStarts_s5kdne.png"
+        },
+        {
+            "id": "Goldenfish",
+            "name": "Golden Fish",
+            "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/Goldenfish.png",
+            "premium": true
         },
         {
             "id": "GreenCrystals",
@@ -156,9 +240,27 @@
             "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/Eggs_ezu70w.png"
         },
         {
+            "id": "HelloKitty",
+            "name": "Hello Kitty",
+            "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/HelloKitty.png",
+            "premium": true
+        },
+        {
+            "id": "HotDog",
+            "name": "HotDog",
+            "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/HotDog.png",
+            "premium": true
+        },
+        {
             "id": "DreamyStars",
             "name": "Dreamy Stars",
             "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/DreamyStars_bhi6ou.png"
+        },
+        {
+            "id": "Nokia",
+            "name": "Nokia",
+            "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/Nokia.png",
+            "premium": true
         },
         {
             "id": "Balloons",
@@ -169,6 +271,24 @@
             "id": "ArcadeGhosts",
             "name": "Arcade Ghosts",
             "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/ArcadeGhosts_ygrcvc.png"
+        },
+        {
+            "id": "Mustache",
+            "name": "Mustache",
+            "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/Mustache.png",
+            "premium": true
+        },
+        {
+            "id": "PinkMustache",
+            "name": "Pink Mustache",
+            "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/PinkMustache.png",
+            "premium": true
+        },
+        {
+            "id": "MSN",
+            "name": "MSN",
+            "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/MSN.png",
+            "premium": true
         },
         {
             "id": "SparkleLight",
@@ -184,6 +304,12 @@
             "id": "Dino",
             "name": "Dino",
             "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/Dino_n4wifc.png"
+        },
+        {
+            "id": "Kiss",
+            "name": "Kiss",
+            "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/Kiss.png",
+            "premium": true
         },
         {
             "id": "Warning",
@@ -206,6 +332,12 @@
             "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/RetroStars_iaordc.png"
         },
         {
+            "id": "MagicalDust",
+            "name": "Magical Dust",
+            "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/MagicalDust.png",
+            "premium": true
+        },
+        {
             "id": "PixelCursors",
             "name": "Pixel Cursors",
             "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/PixelCursors_gryaxp.png"
@@ -214,6 +346,12 @@
             "id": "RainbowStars",
             "name": "Rainbow Stars",
             "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/RainbowStars_cc4iez.png"
+        },
+        {
+            "id": "MagicalFairy",
+            "name": "Magical Fairy",
+            "patternPath": "https://danieleventura.github.io/image95-assets/app/patterns/MagicalFairy.png",
+            "premium": true
         },
         {
             "id": "Pearls",

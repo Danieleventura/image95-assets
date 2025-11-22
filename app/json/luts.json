@@ -180,7 +180,8 @@
             "name": "Outlast",
             "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Outlast.PNG",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Outlast.jpg",
-            "overlayPath": null
+            "overlayPath": null,
+            "premium": true
         },
         {
             "id": "Poison",
@@ -209,7 +210,8 @@
             "name": "Retro Vibe",
             "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/RetroVibe.PNG",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/RetroVibe.jpg",
-            "overlayPath": null
+            "overlayPath": null,
+            "premium": true
         },
         {
             "id": "SoFetch",
@@ -238,7 +240,8 @@
             "name": "Sunburn",
             "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Sunburn.png",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Sunburn.jpg",
-            "overlayPath": null
+            "overlayPath": null,
+            "premium": true
         },
         {
             "id": "Taurus",
@@ -354,7 +357,8 @@
             "name": "Ilusion",
             "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Ilusion.png",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Ilusion.jpg",
-            "overlayPath": null
+            "overlayPath": null,
+            "premium": true
         },
         {
             "id": "Menta",
@@ -392,14 +396,16 @@
             "name": "Vintage Core",
             "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/VintageCore.png",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/VintageCore.jpg",
-            "overlayPath": null
+            "overlayPath": null,
+            "premium": true
         },
         {
             "id": "Yo",
             "name": "Yo",
             "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Yo.png",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Yo.jpg",
-            "overlayPath": null
+            "overlayPath": null,
+            "premium": true
         },
         {
             "id": "Zero",

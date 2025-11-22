@@ -10,14 +10,14 @@
             "id": "Breakdown",
             "name": "Breakdown",
             "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/Breakdown.png",
-            "framePath": "https://danieleventura.github.io/image95-assets/Frames/Breakdown.png",
+            "framePath": "https://danieleventura.github.io/image95-assets/app/frames/Breakdown.png",
             "premium": true
         },
         {
             "id": "ChainLuxe",
             "name": "Chain Luxe",
             "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/ChainLuxe.png",
-            "framePath": "https://danieleventura.github.io/image95-assets/Frames/ChainLuxe.png",
+            "framePath": "https://danieleventura.github.io/image95-assets/app/frames/ChainLuxe.png",
             "premium": true
         },
         {
@@ -36,7 +36,7 @@
             "id": "PolaroidW",
             "name": "Polaroid W",
             "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/PolaroidW.png",
-            "framePath": "https://danieleventura.github.io/image95-assets/Frames/PolaroidW.png",
+            "framePath": "https://danieleventura.github.io/image95-assets/app/frames/PolaroidW.png",
             "premium": true
         },
         {
@@ -49,47 +49,47 @@
             "id": "DarkCute",
             "name": "Dark Cute",
             "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/DarkCute.png",
-            "framePath": "https://danieleventura.github.io/image95-assets/Frames/DarkCute.png",
+            "framePath": "https://danieleventura.github.io/image95-assets/app/frames/DarkCute.png",
             "premium": true
         },
         {
             "id": "PinkPunk",
             "name": "Pink Punk",
             "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/PinkPunk.png",
-            "framePath": "https://danieleventura.github.io/image95-assets/Frames/PinkPunk.png",
+            "framePath": "https://danieleventura.github.io/image95-assets/app/frames/PinkPunk.png",
             "premium": true
         },
         {
             "id": "PinkZebra",
             "name": "Pink Zebra",
             "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/PinkZebra.png",
-            "framePath": "https://danieleventura.github.io/image95-assets/Frames/PinkZebra.png"
+            "framePath": "https://danieleventura.github.io/image95-assets/app/frames/PinkZebra.png"
         },
         {
             "id": "PolaroidB",
             "name": "Polaroid B",
             "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/PolaroidB.png",
-            "framePath": "https://danieleventura.github.io/image95-assets/Frames/PolaroidB.png",
+            "framePath": "https://danieleventura.github.io/image95-assets/app/frames/PolaroidB.png",
             "premium": true
         },
         {
             "id": "Princess",
             "name": "Princess",
             "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/Princess.png",
-            "framePath": "https://danieleventura.github.io/image95-assets/Frames/Princess.png"
+            "framePath": "https://danieleventura.github.io/image95-assets/app/frames/Princess.png"
         },
         {
             "id": "SoftGlow",
             "name": "Soft Glow",
             "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/SoftGlow.png",
-            "framePath": "https://danieleventura.github.io/image95-assets/Frames/SoftGlow.png",
+            "framePath": "https://danieleventura.github.io/image95-assets/app/frames/SoftGlow.png",
             "premium": true
         },
         {
             "id": "Studio95",
             "name": "Studio95",
             "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/Studio95.png",
-            "framePath": "https://danieleventura.github.io/image95-assets/Frames/Studio95.png",
+            "framePath": "https://danieleventura.github.io/image95-assets/app/frames/Studio95.png",
             "premium": true
         },
         {
@@ -120,14 +120,14 @@
             "id": "SweetLine",
             "name": "SweetLine",
             "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/SweetLine.png",
-            "framePath": "https://danieleventura.github.io/image95-assets/Frames/SweetLine.png",
+            "framePath": "https://danieleventura.github.io/image95-assets/app/frames/SweetLine.png",
             "premium": true
         },
         {
             "id": "Zebra",
             "name": "Zebra",
             "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/Zebra.png",
-            "framePath": "https://danieleventura.github.io/image95-assets/Frames/Zebra.png",
+            "framePath": "https://danieleventura.github.io/image95-assets/app/frames/Zebra.png",
             "premium": true
         },
         {
@@ -176,7 +176,7 @@
             "id": "SoftDaisy",
             "name": "Soft Daisy",
             "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/SoftDaisy.png",
-            "framePath": "https://danieleventura.github.io/image95-assets/Frames/SoftDaisy.png",
+            "framePath": "https://danieleventura.github.io/image95-assets/app/frames/SoftDaisy.png",
             "premium": true
         },
         {
@@ -207,14 +207,14 @@
             "id": "RetroFlower",
             "name": "Retro Flower",
             "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/RetroFlower.png",
-            "framePath": "https://danieleventura.github.io/image95-assets/Frames/RetroFlower.png",
+            "framePath": "https://danieleventura.github.io/image95-assets/app/frames/RetroFlower.png",
             "premium": true
         },
         {
             "id": "RetroShine",
             "name": "Retro Shine",
             "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/RetroShine.png",
-            "framePath": "https://danieleventura.github.io/image95-assets/Frames/RetroShine.png",
+            "framePath": "https://danieleventura.github.io/image95-assets/app/frames/RetroShine.png",
             "premium": true
         },
         {
@@ -245,7 +245,7 @@
             "id": "HelloKitty",
             "name": "Hello Kitty",
             "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/HelloKitty.png",
-            "framePath": "https://danieleventura.github.io/image95-assets/Frames/HelloKitty.png",
+            "framePath": "https://danieleventura.github.io/image95-assets/app/frames/HelloKitty.png",
             "premium": true
         },
         {
@@ -270,7 +270,7 @@
             "id": "HotPink",
             "name": "Hot Pink",
             "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/HotPink.png",
-            "framePath": "https://danieleventura.github.io/image95-assets/Frames/HotPink.png",
+            "framePath": "https://danieleventura.github.io/image95-assets/app/frames/HotPink.png",
             "premium": true
         },
         {
@@ -331,14 +331,14 @@
             "id": "Likes",
             "name": "Likes",
             "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/Likes.png",
-            "framePath": "https://danieleventura.github.io/image95-assets/Frames/Likes.png",
+            "framePath": "https://danieleventura.github.io/image95-assets/app/frames/Likes.png",
             "premium": true
         },
         {
             "id": "LilacMist",
             "name": "Lilac Mist",
             "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/LilacMist.png",
-            "framePath": "https://danieleventura.github.io/image95-assets/Frames/LilacMist.png",
+            "framePath": "https://danieleventura.github.io/image95-assets/app/frames/LilacMist.png",
             "premium": true
         },
         {
@@ -363,14 +363,14 @@
             "id": "OldSnap",
             "name": "Old Snap",
             "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/OldSnap.png",
-            "framePath": "https://danieleventura.github.io/image95-assets/Frames/OldSnap.png",
+            "framePath": "https://danieleventura.github.io/image95-assets/app/frames/OldSnap.png",
             "premium": true
         },
         {
             "id": "Paint",
             "name": "Paint",
             "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/Paint.png",
-            "framePath": "https://danieleventura.github.io/image95-assets/Frames/Paint.png",
+            "framePath": "https://danieleventura.github.io/image95-assets/app/frames/Paint.png",
             "premium": true
         },
         {
@@ -389,7 +389,7 @@
             "id": "PinkKitty",
             "name": "Pink Kitty",
             "img": "https://danieleventura.github.io/image95-assets/app/frames/preview/PinkKitty.png",
-            "framePath": "https://danieleventura.github.io/image95-assets/Frames/PinkKitty.png",
+            "framePath": "https://danieleventura.github.io/image95-assets/app/frames/PinkKitty.png",
             "premium": true
         },
         {

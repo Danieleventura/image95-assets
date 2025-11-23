@@ -423,6 +423,258 @@
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/RetroNoise.jpg",
             "lutPath": null,
             "blendMode": 2
+        },
+        {
+            "id": "404",
+            "name": "404",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/404.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/404.jpg",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "BlueHorror",
+            "name": "Blue Horror",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/BlueHorror.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/BlueHorror.png",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "CameraPlay",
+            "name": "Camera Play",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/CameraPlay.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/CameraPlay.jpg",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "ChainStyle",
+            "name": "Chain Style",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/ChainStyle.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/ChainStyle.jpg",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "FireGlow",
+            "name": "Fire Glow",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/FireGlow.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/FireGlow.jpg",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "FlamePop",
+            "name": "Flame Pop",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/FlamePop.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/FlamePop.jpg",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "Flowers",
+            "name": "Flowers",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Flowers.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Flowers.jpg",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "Focus",
+            "name": "Focus",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Focus.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Focus.jpg",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "GlowHorror",
+            "name": "Glow Horror",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/GlowHorror.png",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/GlowHorror.png",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "GlowKitty",
+            "name": "Glow Kitty",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/GlowKitty.png",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/GlowKitty.jpg",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "HeatWave",
+            "name": "Heat Wave",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/HeatWave.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/HeatWave.jpg",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "HeavyChain",
+            "name": "Heavy Chain",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/HeavyChain.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/HeavyChain.jpg",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "HelloKitty",
+            "name": "Hello Kitty",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/HelloKitty.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/HelloKitty.jpg",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "HelloWord",
+            "name": "Hello Word",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/HelloWord.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/HelloWord.jpg",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "Kodak43",
+            "name": "Kodak 43",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Kodak43.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Kodak43.jpg",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "Matrix",
+            "name": "Matrix",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Matrix.png",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Matrix.png",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "REC",
+            "name": "REC",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/REC.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/REC.jpg",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "RedHorror",
+            "name": "Red Horror",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/RedHorror.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/RedHorror.jpg",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "RetroRec",
+            "name": "Retro Rec",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/RetroRec.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/RetroRec.jpg",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "ShotTarget",
+            "name": "Shot Target",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/ShotTarget.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/ShotTarget.jpg",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "SilverChains",
+            "name": "Silver Chains",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/SilverChains.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/SilverChains.jpg",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "Stars",
+            "name": "Stars",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Stars.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Stars.jpg",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "Superstar",
+            "name": "Superstar",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Superstar.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Superstar.jpg",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "TVRec",
+            "name": "TV Rec",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/TVRec.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/TVRec.jpg",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "ThunderFlash",
+            "name": "Thunder Flash",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/ThunderFlash.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/ThunderFlash.jpg",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "Voltage",
+            "name": "Voltage",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Voltage.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Voltage.jpg",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "WildFlames",
+            "name": "Wild Flames",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/WildFlames.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/WildFlames.jpg",
+            "lutPath": null,
+            "blendMode": 2
+        },
+        {
+            "id": "WindowsXP",
+            "name": "Windows XP",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/WindowsXP.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/WindowsXP.jpg",
+            "lutPath": null,
+            "blendMode": 2
         }
     ]
 }

@@ -451,7 +451,7 @@
             "name": "Blue Horror",
             "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/BlueHorror.png",
             "premium": true,
-            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/BlueHorror.png",
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/BlueHorror.jpg",
             "lutPath": null,
             "blendMode": 2
         },
@@ -514,7 +514,7 @@
             "name": "Glow Horror",
             "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/GlowHorror.png",
             "premium": true,
-            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/GlowHorror.png",
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/GlowHorror.jpg",
             "lutPath": null,
             "blendMode": 2
         },

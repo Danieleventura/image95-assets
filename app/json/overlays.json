@@ -14,11 +14,13 @@
             "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/ChaosDoodles.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/ChaosDoodles.jpg",
             "lutPath": null,
-            "blendMode": 2
+            "blendMode": 2,
+            "premium": true
         },
         {
             "id": "Symbols",
             "name": "Symbols",
+            "premium": true,
             "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Symbols.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Symbols.jpg",
             "lutPath": null,
@@ -27,6 +29,7 @@
         {
             "id": "BunnyEars",
             "name": "Bunny Ears",
+            "premium": true,
             "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/BunnyEars.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/BunnyEars.jpg",
             "lutPath": null,
@@ -35,6 +38,7 @@
         {
             "id": "PastelStars",
             "name": "Pastel Stars",
+            "premium": true,
             "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/PastelStars.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/PastelStars.jpg",
             "lutPath": null,
@@ -43,6 +47,7 @@
         {
             "id": "YellowFrame",
             "name": "Yellow Frame",
+            "premium": true,
             "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/YellowFrame.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/YellowFrame.jpg",
             "lutPath": null,
@@ -51,6 +56,7 @@
         {
             "id": "StarrySky",
             "name": "Starry Sky",
+            "premium": true,
             "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/StarrySky.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/StarrySky.jpg",
             "lutPath": null,
@@ -59,6 +65,7 @@
         {
             "id": "NeonStar",
             "name": "Neon Star",
+            "premium": true,
             "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/NeonStar.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/NeonStar.jpg",
             "lutPath": null,
@@ -67,6 +74,7 @@
         {
             "id": "Analog",
             "name": "Analog",
+            "premium": true,
             "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Analog.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Analog.jpg",
             "lutPath": null,
@@ -75,6 +83,7 @@
         {
             "id": "GlitchTV",
             "name": "Glitch TV",
+            "premium": true,
             "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/GlitchTV.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/GlitchTV.jpg",
             "lutPath": null,
@@ -83,6 +92,7 @@
         {
             "id": "PinkLightII",
             "name": "Pink Light II",
+            "premium": true,
             "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/PinkLight.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/PinkLight.jpg",
             "lutPath": null,
@@ -91,6 +101,7 @@
         {
             "id": "Shine",
             "name": "Shine",
+            "premium": true,
             "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Shine.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Shine.jpg",
             "lutPath": null,
@@ -99,6 +110,7 @@
         {
             "id": "Sparkles",
             "name": "Sparkles",
+            "premium": true,
             "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Sparkles.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Sparkles.jpg",
             "lutPath": null,
@@ -107,6 +119,7 @@
         {
             "id": "Glitch",
             "name": "Glitch",
+            "premium": true,
             "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/Glitch.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Glitch.jpg",
             "lutPath": null,
@@ -356,7 +369,7 @@
             "id": "PinkHearts",
             "name": "Pink Hearts",
             "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/PinkHearts.jpg",
-            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/PinkHearts.jpg",
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/PinkHearts.jpg",
             "lutPath": null,
             "blendMode": 2
         },
@@ -436,7 +449,7 @@
         {
             "id": "BlueHorror",
             "name": "Blue Horror",
-            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/BlueHorror.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/BlueHorror.png",
             "premium": true,
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/BlueHorror.png",
             "lutPath": null,
@@ -544,7 +557,7 @@
         {
             "id": "HelloWord",
             "name": "Hello Word",
-            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/HelloWord.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/HelloWord.png",
             "premium": true,
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/HelloWord.jpg",
             "lutPath": null,
@@ -580,7 +593,7 @@
         {
             "id": "RedHorror",
             "name": "Red Horror",
-            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/RedHorror.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/RedHorror.png",
             "premium": true,
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/RedHorror.jpg",
             "lutPath": null,

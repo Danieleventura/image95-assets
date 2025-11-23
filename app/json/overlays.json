@@ -591,15 +591,6 @@
             "blendMode": 2
         },
         {
-            "id": "RedHorror",
-            "name": "Red Horror",
-            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/RedHorror.png",
-            "premium": true,
-            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/RedHorror.jpg",
-            "lutPath": null,
-            "blendMode": 2
-        },
-        {
             "id": "RetroRec",
             "name": "Retro Rec",
             "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/RetroRec.jpg",

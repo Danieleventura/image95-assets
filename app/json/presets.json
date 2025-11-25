@@ -32,7 +32,6 @@
             "name": "Cozy Lens",
             "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CozyLens.png",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Astronomy.jpg",
-            "noise": 1.3,
             "dreamflow": 0.9,
             "framePath": "https://danieleventura.github.io/image95-assets/Frames/Failed.png"
         },
@@ -71,7 +70,7 @@
             "name": "Blush",
             "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Blush.png",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Alternative.jpg",
-            "thermal": 0.5
+            "thermal": 0.3
         },
         {
             "id": "Dusk",
@@ -195,7 +194,7 @@
             "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/DreamPrint.png",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Taurus.jpg",
             "framePath": "https://danieleventura.github.io/image95-assets/Frames/BlushVelvet.png",
-            "wave": 1.0
+            "wave": 0.8
         },
         {
             "id": "MusicPlayer",
@@ -246,7 +245,7 @@
             "name": "Strawberries",
             "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Strawberries.png",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/UrbanDust.jpg",
-            "framePath": "https://danieleventura.github.io/image95-assets/app/frames/RetroShine.png",
+            "framePath": "https://danieleventura.github.io/image95-assets/Frames/Strawberries.png",
             "filmGrain": 2.7
         },
         {
@@ -269,7 +268,7 @@
             "id": "Season",
             "name": "Season",
             "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Season.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Taxi95.jpg",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Astronomy.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Shine.jpg",
             "blendMode": 2,
             "overlayPath2": "https://danieleventura.github.io/image95-assets/Overlays/FilmBurn.jpg",
@@ -280,7 +279,7 @@
             "id": "Popular",
             "name": "Popular",
             "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Popular.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Ilusion.jpg",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Astronomy.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/RECMarker.jpg",
             "blendMode": 2,
             "pixelation": 3.5

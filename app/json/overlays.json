@@ -369,14 +369,14 @@
             "id": "PinkHearts",
             "name": "Pink Hearts",
             "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/PinkHearts.jpg",
-            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/PinkHearts.jpg",
+            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/PinkHearts.jpg",
             "lutPath": null,
             "blendMode": 2
         },
         {
             "id": "PinkLight",
             "name": "Pink Light",
-            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/PinkLight.jpg",
+            "img": "https://danieleventura.github.io/image95-assets/app/overlays/preview/PinkLight3.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/PinkLight.jpg",
             "lutPath": null,
             "blendMode": 2

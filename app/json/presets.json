@@ -8,44 +8,12 @@
             "vintageCam": 2.0
         },
         {
-            "id": "CottonPink",
-            "name": "Cotton Pink",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CottonPink.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Alternative.jpg",
-            "neon": 5.0,
-            "premium": true
-        },
-        {
-            "id": "Milkshake",
-            "name": "Milkshake",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Milkshake.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Hash.jpg",
-            "meltedVision": 0.4,
-            "premium": true,
-            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/SilentFilm.jpg",
-            "blendMode": 2,
-            "overlayPath2": "https://danieleventura.github.io/image95-assets/Overlays/FilmBurn.jpg",
-            "blendMode2": 2
-        },
-        {
             "id": "CozyLens",
             "name": "Cozy Lens",
             "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CozyLens.png",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Astronomy.jpg",
             "dreamflow": 0.9,
             "framePath": "https://danieleventura.github.io/image95-assets/Frames/Failed.png"
-        },
-        {
-            "id": "Lullaby",
-            "name": "Lullaby",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Lullaby.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Idontcare.jpg",
-            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/Twinkle.jpg",
-            "overlayPath2": "https://danieleventura.github.io/image95-assets/app/overlays/Analog.jpg",
-            "premium": true,
-            "blendMode": 2,
-            "blendMode2": 2,
-            "dreamflow": 0.9
         },
         {
             "id": "Kodak",
@@ -82,33 +50,6 @@
             "noise": 1.1
         },
         {
-            "id": "Stardrip",
-            "name": "Stardrip",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Stardrip.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/B&W.jpg",
-            "premium": true,
-            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Voltage.jpg",
-            "blendMode": 2
-        },
-        {
-            "id": "Sunny",
-            "name": "Sunny",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Sunny.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/B&W.jpg",
-            "premium": true,
-            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/WildFlames.jpg",
-            "blendMode": 2
-        },
-        {
-            "id": "Pearl",
-            "name": "Pearl",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Pearl.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/B&W.jpg",
-            "premium": true,
-            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/FlamePop.jpg",
-            "blendMode": 2
-        },
-        {
             "id": "MoodCraft",
             "name": "Mood Craft",
             "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/MoodCraft.png",
@@ -133,31 +74,11 @@
             "blendMode": 2
         },
         {
-            "id": "ClassicCam",
-            "name": "Classic Cam",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/ClassicCam.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/FlashVHS.jpg",
-            "vignette": 0.3,
-            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/1992Cam.jpg",
-            "premium": true,
-            "blendMode": 2
-        },
-        {
             "id": "Indie",
             "name": "Indie",
             "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Indie.png",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/SoFetch.jpg",
             "glitch": 0.6
-        },
-        {
-            "id": "FilmAura",
-            "name": "Film Aura",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/FilmAura.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Hurricane.jpg",
-            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/CupidsMark.jpg",
-            "blendMode": 2,
-            "premium": true,
-            "chromaticAberration": 0.6
         },
         {
             "id": "Aura95",
@@ -177,16 +98,6 @@
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Bella.jpg",
             "framePath": "https://danieleventura.github.io/image95-assets/Frames/BlackMood.png",
             "scanLines": 1.6
-        },
-        {
-            "id": "Oldfilm",
-            "name": "Oldfilm",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Oldfilm.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/80.jpg",
-            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/FilmBurn.jpg",
-            "blendMode": 2,
-            "filmGrain": 2.3,
-            "premium": true
         },
         {
             "id": "DreamPrint",
@@ -212,33 +123,6 @@
             "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Grainy.png",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Grunge.jpg",
             "scratches": 0.7
-        },
-        {
-            "id": "Dreamy",
-            "name": "Dreamy",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Dreamy.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Alternative.jpg",
-            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/CupidsMark.jpg",
-            "framePath": "https://danieleventura.github.io/image95-assets/Frames/BlushVelvet.png",
-            "blendMode": 2,
-            "premium": true
-        },
-        {
-            "id": "RetroScan",
-            "name": "Retro Scan",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/RetroScan.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Chaotic.jpg",
-            "vintageCam": 1.5,
-            "premium": true
-        },
-        {
-            "id": "95Vibes",
-            "name": "95 Vibes",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/95Vibes.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/2000s.jpg",
-            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Stars.jpg",
-            "blendMode": 2,
-            "premium": true
         },
         {
             "id": "Strawberries",
@@ -303,27 +187,6 @@
             "sharpen": 1.4
         },
         {
-            "id": "Punk",
-            "name": "Punk",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Punk.PNG",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Purple.jpg",
-            "overlayPath": null,
-            "pixelation": 4,
-            "noise": 1.1,
-            "intensity": 0.8,
-            "premium": true
-        },
-        {
-            "id": "1111",
-            "name": "1111",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/1111.PNG",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Hydraulic.jpg",
-            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/101011.jpg",
-            "blendMode": 2,
-            "noise": 1,
-            "premium": true
-        },
-        {
             "id": "NightCam",
             "name": "Night Cam",
             "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/NightCam.PNG",
@@ -361,6 +224,143 @@
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Blues.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/Window.jpg",
             "blendMode": 3
+        },
+        {
+            "id": "CottonPink",
+            "name": "Cotton Pink",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CottonPink.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Alternative.jpg",
+            "neon": 5.0,
+            "premium": true
+        },
+        {
+            "id": "Milkshake",
+            "name": "Milkshake",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Milkshake.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Hash.jpg",
+            "meltedVision": 0.4,
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/SilentFilm.jpg",
+            "blendMode": 2,
+            "overlayPath2": "https://danieleventura.github.io/image95-assets/Overlays/FilmBurn.jpg",
+            "blendMode2": 2
+        },
+        {
+            "id": "Lullaby",
+            "name": "Lullaby",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Lullaby.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Idontcare.jpg",
+            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/Twinkle.jpg",
+            "overlayPath2": "https://danieleventura.github.io/image95-assets/app/overlays/Analog.jpg",
+            "premium": true,
+            "blendMode": 2,
+            "blendMode2": 2,
+            "dreamflow": 0.9
+        },
+        {
+            "id": "Stardrip",
+            "name": "Stardrip",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Stardrip.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/B&W.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Voltage.jpg",
+            "blendMode": 2
+        },
+        {
+            "id": "Sunny",
+            "name": "Sunny",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Sunny.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/B&W.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/WildFlames.jpg",
+            "blendMode": 2
+        },
+        {
+            "id": "Pearl",
+            "name": "Pearl",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Pearl.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/B&W.jpg",
+            "premium": true,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/FlamePop.jpg",
+            "blendMode": 2
+        },
+        {
+            "id": "ClassicCam",
+            "name": "Classic Cam",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/ClassicCam.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/FlashVHS.jpg",
+            "vignette": 0.3,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/1992Cam.jpg",
+            "premium": true,
+            "blendMode": 2
+        },
+        {
+            "id": "FilmAura",
+            "name": "Film Aura",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/FilmAura.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Hurricane.jpg",
+            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/CupidsMark.jpg",
+            "blendMode": 2,
+            "premium": true,
+            "chromaticAberration": 0.6
+        },
+        {
+            "id": "Oldfilm",
+            "name": "Oldfilm",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Oldfilm.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/80.jpg",
+            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/FilmBurn.jpg",
+            "blendMode": 2,
+            "filmGrain": 2.3,
+            "premium": true
+        },
+        {
+            "id": "Dreamy",
+            "name": "Dreamy",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Dreamy.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Alternative.jpg",
+            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/CupidsMark.jpg",
+            "framePath": "https://danieleventura.github.io/image95-assets/Frames/BlushVelvet.png",
+            "blendMode": 2,
+            "premium": true
+        },
+        {
+            "id": "RetroScan",
+            "name": "Retro Scan",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/RetroScan.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Chaotic.jpg",
+            "vintageCam": 1.5,
+            "premium": true
+        },
+        {
+            "id": "95Vibes",
+            "name": "95 Vibes",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/95Vibes.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/2000s.jpg",
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Stars.jpg",
+            "blendMode": 2,
+            "premium": true
+        },
+        {
+            "id": "Punk",
+            "name": "Punk",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Punk.PNG",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Purple.jpg",
+            "overlayPath": null,
+            "pixelation": 4,
+            "noise": 1.1,
+            "intensity": 0.8,
+            "premium": true
+        },
+        {
+            "id": "1111",
+            "name": "1111",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/1111.PNG",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Hydraulic.jpg",
+            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/101011.jpg",
+            "blendMode": 2,
+            "noise": 1,
+            "premium": true
         }
     ]
 }

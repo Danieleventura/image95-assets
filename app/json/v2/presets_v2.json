@@ -507,10 +507,7 @@
             "name": "Punk",
             "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Punk.PNG",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Purple.jpg",
-            "overlayPath": null,
-            "pixelation": 4,
             "noise": 1.1,
-            "intensity": 0.8,
             "premium": true
         },
         {

@@ -1,6 +1,167 @@
 {
     "presets": [
         {
+            "id": "CloudTape224233222321",
+            "name": "Cloud Tape224233222321",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CloudTape.png",
+            "bloomIntensity": 1.5,
+            "bloomThreshold": 0.35,
+            "bloomSoftness": 1.8,
+            "bloomRadius": 1.0,
+            "chromatic": 0.3,
+            "bloomColor": [
+                1.0,
+                0.3,
+                0.7
+            ],
+            "pinkNoise": 5.4
+        },
+        {
+            "id": "CloudTape224233222322",
+            "name": "Cloud Tape224233222322",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CloudTape.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Film.jpg",
+            "lutIntensity": 0.5,
+            "rgbSplit": 0.53,
+            "vignettePowerOrange": 0.15
+        },
+        {
+            "id": "CloudTape22423322232",
+            "name": "Cloud Tape22423322232",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CloudTape.png",
+            "yellowNoise": 3.3,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Sparkles.jpg",
+            "blendMode": 2
+        },
+        {
+            "id": "CloudTape22423322232",
+            "name": "Cloud Tape22423322232",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CloudTape.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/RetroVibe.jpg",
+            "lutIntensity": 0.35,
+            "noise": 0.9,
+            "pinkNoise": 3.6
+        },
+        {
+            "id": "CloudTape22423322232",
+            "name": "Cloud Tape22423322232",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CloudTape.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/RetroVibe.jpg",
+            "lutIntensity": 0.35,
+            "noise": 0.9,
+            "vignettePowerPink": 0.34
+        },
+        {
+            "id": "CloudTape2242332222",
+            "name": "Cloud Tape2242332222",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CloudTape.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/RetroVibe.jpg",
+            "lutIntensity": 0.35,
+            "noise": 0.9,
+            "bloomIntensity": 1.7,
+            "bloomThreshold": 0.65,
+            "bloomSoftness": 1.0,
+            "bloomRadius": 0.6,
+            "chromatic": 0.15,
+            "bloomColor": [
+                0.95,
+                0.45,
+                0.55
+            ]
+        },
+        {
+            "id": "CloudTape224233222",
+            "name": "Cloud Tape224233222",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CloudTape.png",
+            "pinkNoise": 5.60,
+            "vignettePowerPink": 0.28,
+            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/PinkLight.jpg",
+            "blendMode": 2
+        },
+        {
+            "id": "CloudTape22423322",
+            "name": "Cloud Tape22423322",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CloudTape.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/80.jpg",
+            "framePath": "https://danieleventura.github.io/image95-assets/Frames/Window.png",
+            "smearEffect": 2.80
+        },
+        {
+            "id": "CloudTape22423322",
+            "name": "Cloud Tape22423322",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CloudTape.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/B&W.jpg",
+            "squareSize3": 0.79
+        },
+        {
+            "id": "CloudTape2242332",
+            "name": "Cloud Tape2242332",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CloudTape.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/B&W.jpg",
+            "neon": 1.02
+        },
+        {
+            "id": "CloudTape224233",
+            "name": "Cloud Tape224233",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CloudTape.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/B&W.jpg",
+            "vignettePower": 0.41
+        },
+        {
+            "id": "CloudTape22423",
+            "name": "Cloud Tape22423",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CloudTape.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/B&W.jpg",
+            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/AnalogBlur.jpg",
+            "blendMode": 2
+        },
+        {
+            "id": "CloudTape22423",
+            "name": "Cloud Tape22423",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CloudTape.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/B&W.jpg",
+            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/LightLeak.jpg",
+            "blendMode": 2
+        },
+        {
+            "id": "CloudTape2242",
+            "name": "Cloud Tape2242",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CloudTape.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/FlashVHS.jpg",
+            "dithering": 1.0,
+            "vignettePowerPink": 0.4
+        },
+        {
+            "id": "CloudTape224",
+            "name": "Cloud Tape224",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CloudTape.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/FlashVHS.jpg",
+            "pixelSize": 100.0
+        },
+        {
+            "id": "CloudTape22",
+            "name": "Cloud Tape22",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CloudTape.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/2000s.jpg",
+            "yellowNoise": 3.30,
+            "glitchBlocks": 2.58
+        },
+        {
+            "id": "CloudTape2",
+            "name": "Cloud Tape2",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CloudTape.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/1990.jpg",
+            "noise": 1.10
+        },
+        {
+            "id": "CloudTape23",
+            "name": "Cloud Tape23",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CloudTape.png",
+            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Barbie.jpg",
+            "noise": 1.50,
+            "squareSize4": 0.78
+        },
+        {
             "id": "CloudTape",
             "name": "Cloud Tape",
             "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CloudTape.png",
@@ -347,7 +508,9 @@
             "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Punk.PNG",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Purple.jpg",
             "overlayPath": null,
+            "pixelation": 4,
             "noise": 1.1,
+            "intensity": 0.8,
             "premium": true
         },
         {

@@ -4,11 +4,11 @@
             "id": "1",
             "name": "1",
             "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CloudTape.png",
-            "bloomIntensity": 1.4,
-            "bloomThreshold": 0.55,
-            "bloomSoftness": 1.7,
-            "bloomRadius": 0.8,
-            "chromatic": 0.2,
+            "bloomIntensity": 1.7,
+            "bloomThreshold": 0.65,
+            "bloomSoftness": 1.0,
+            "bloomRadius": 0.6,
+            "chromatic": 0.15,
             "bloomColor": [
                 0.90,
                 0.55,
@@ -30,8 +30,8 @@
             "name": "3",
             "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/CloudTape.png",
             "yellowNoise": 3.3,
-            "overlayPath": "https://danieleventura.github.io/image95-assets/app/overlays/Sparkles.jpg",
-            "blendMode": 2
+            "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/Sparkle.jpg",
+            "blendMode": 3
         },
         {
             "id": "4",

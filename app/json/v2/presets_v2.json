@@ -29,9 +29,9 @@
             "framePath": "https://danieleventura.github.io/image95-assets/Frames/RetroPop.png"
         },
         {
-            "id": "Nightcam",
-            "name": "Nightcam",
-            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/Nightcam.png",
+            "id": "SonyLite",
+            "name": "Sony Lite",
+            "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/SonyLite.png",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Vision.jpg",
             "lutIntensity": 0.7,
             "greenNoise": 1.3
@@ -294,7 +294,7 @@
         },
         {
             "id": "RetroCam",
-            "name": "RetroCam",
+            "name": "Retro Cam",
             "img": "https://danieleventura.github.io/image95-assets/app/presets/preview/RetroCam.png",
             "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/B&W.jpg",
             "overlayPath": "https://danieleventura.github.io/image95-assets/Overlays/AnalogBlur.jpg",

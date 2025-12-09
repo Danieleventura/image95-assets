@@ -3,416 +3,416 @@
         {
             "id": "1990",
             "name": "1990",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/1990.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/1990.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/1990.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/1990.jpg",
             "adjustment": "lutIntensity"
             
         },
         {
             "id": "2010s",
             "name": "2010s",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/2010s.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/2010s.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/2010s.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/2010s.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "Alternative",
             "name": "Alternative",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Alternative.PNG",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Alternative.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Alternative.PNG",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Alternative.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "Analog",
             "name": "Analog",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Analog.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Analog.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Analog.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Analog.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "365",
             "name": "365",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/365.PNG",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/365.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/365.PNG",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/365.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "Blues",
             "name": "Blues",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Blues.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Blues.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Blues.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Blues.jpg",
             "adjustment": "lutIntensity",
             "premium": true
         },
         {
             "id": "Brooklyn",
             "name": "Brooklyn",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Brooklyn.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Brooklyn.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Brooklyn.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Brooklyn.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "80",
             "name": "80",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/80.PNG",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/80.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/80.PNG",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/80.jpg",
             "adjustment": "lutIntensity",
             "premium": true
         },
         {
             "id": "Astronomy",
             "name": "Astronomy",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Astronomy.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Astronomy.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Astronomy.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Astronomy.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "Barbie",
             "name": "Barbie",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Barbie.PNG",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Barbie.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Barbie.PNG",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Barbie.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "Bella",
             "name": "Bella",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Bella.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Bella.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Bella.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Bella.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "DeepBlue",
             "name": "Deep Blue",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/DeepBlue.PNG",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/DeepBlue.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/DeepBlue.PNG",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/DeepBlue.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "Exclusive",
             "name": "Exclusive",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Exclusive.PNG",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Exclusive.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Exclusive.PNG",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Exclusive.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "Film",
             "name": "Film",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Film.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Film.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Film.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Film.jpg",
             "adjustment": "lutIntensity",
             "premium": true
         },
         {
             "id": "Flash",
             "name": "Flash",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Flash.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Flash.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Flash.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Flash.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "Focused",
             "name": "Focused",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Focused.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Focused.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Focused.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Focused.jpg",
             "adjustment": "lutIntensity",
             "premium": true
         },
         {
             "id": "Flash VHS",
             "name": "Flash VHS",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/FlashVHS.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/FlashVHS.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/FlashVHS.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/FlashVHS.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "Hash",
             "name": "Hash",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Hash.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Hash.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Hash.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Hash.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "Hurricane",
             "name": "Hurricane",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Hurricane.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Hurricane.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Hurricane.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Hurricane.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "Hydraulic",
             "name": "Hydraulic",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Hydraulic.PNG",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Hydraulic.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Hydraulic.PNG",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Hydraulic.jpg",
             "adjustment": "lutIntensity",
             "premium": true
         },
         {
             "id": "Idontcare",
             "name": "Idontcare",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Idontcare.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Idontcare.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Idontcare.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Idontcare.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "Kodak",
             "name": "Kodak",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Kodak.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Kodak.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Kodak.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Kodak.jpg",
             "adjustment": "lutIntensity",
             "premium": true
         },
         {
             "id": "Memory",
             "name": "Memory",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Memory.PNG",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Memory.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Memory.PNG",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Memory.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "November",
             "name": "November",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/November.PNG",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/November.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/November.PNG",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/November.jpg",
             "adjustment": "lutIntensity",
             "premium": true
         },
         {
             "id": "Outlast",
             "name": "Outlast",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Outlast.PNG",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Outlast.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Outlast.PNG",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Outlast.jpg",
             "adjustment": "lutIntensity",
             "premium": true
         },
         {
             "id": "Poison",
             "name": "Poison",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Poison.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Poison.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Poison.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Poison.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "Purple",
             "name": "Purple",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Purple.PNG",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Purple.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Purple.PNG",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Purple.jpg",
             "adjustment": "lutIntensity",
             "premium": true
         },
         {
             "id": "Retro",
             "name": "Retro",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Retro.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Retro.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Retro.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Retro.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "RetroVibe",
             "name": "Retro Vibe",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/RetroVibe.PNG",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/RetroVibe.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/RetroVibe.PNG",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/RetroVibe.jpg",
             "adjustment": "lutIntensity",
             "premium": true
         },
         {
             "id": "SoFetch",
             "name": "So Fetch",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/SoFetch.PNG",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/SoFetch.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/SoFetch.PNG",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/SoFetch.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "SoftFade",
             "name": "Soft Fade",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/SoftFade.PNG",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/SoftFade.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/SoftFade.PNG",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/SoftFade.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "Summer",
             "name": "Summer",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Summer.PNG",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Summer.png",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Summer.PNG",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Summer.png",
             "adjustment": "lutIntensity",
             "premium": true
         },
         {
             "id": "Sunburn",
             "name": "Sunburn",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Sunburn.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Sunburn.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Sunburn.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Sunburn.jpg",
             "adjustment": "lutIntensity",
             "premium": true
         },
         {
             "id": "Taurus",
             "name": "Taurus",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Taurus.PNG",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Taurus.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Taurus.PNG",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Taurus.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "Taxi95",
             "name": "Taxi95",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Taxi95.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Taxi95.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Taxi95.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Taxi95.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "TheCure",
             "name": "The Cure",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/TheCure.PNG",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/TheCure.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/TheCure.PNG",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/TheCure.jpg",
             "adjustment": "lutIntensity",
             "premium": true
         },
         {
             "id": "TheOne",
             "name": "The One",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/TheOne.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/TheOne.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/TheOne.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/TheOne.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "UrbanDust",
             "name": "Urban Dust",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/UrbanDust.PNG",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/UrbanDust.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/UrbanDust.PNG",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/UrbanDust.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "VintageEra",
             "name": "Vintage Era",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/VintageEra.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/VintageEra.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/VintageEra.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/VintageEra.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "Vision",
             "name": "Vision",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Vision.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Vision.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Vision.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Vision.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "Yea",
             "name": "Yea",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Yea.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Yea.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Yea.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Yea.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "2000s",
             "name": "2000s",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/2000s.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/2000s.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/2000s.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/2000s.jpg",
             "adjustment": "lutIntensity",
             "premium": true
         },
         {
             "id": "B&W",
             "name": "B&W",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/B&W.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/B&W.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/B&W.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/B&W.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "BadRetro",
             "name": "Bad Retro",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/BadRetro.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/BadRetro.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/BadRetro.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/BadRetro.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "Chaotic",
             "name": "Chaotic",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Chaotic.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Chaotic.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Chaotic.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Chaotic.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "Expo",
             "name": "Expo",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Expo.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Expo.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Expo.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Expo.jpg",
             "adjustment": "lutIntensity",
             "premium": true
         },
         {
             "id": "FallenAngel",
             "name": "Fallen Angel",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/FallenAngel.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/FallenAngel.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/FallenAngel.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/FallenAngel.jpg",
             "adjustment": "lutIntensity",
             "premium": true
         },
         {
             "id": "Grunge",
             "name": "Grunge",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Grunge.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Grunge.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Grunge.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Grunge.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "Ilusion",
             "name": "Ilusion",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Ilusion.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Ilusion.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Ilusion.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Ilusion.jpg",
             "adjustment": "lutIntensity",
             "premium": true
         },
         {
             "id": "Menta",
             "name": "Menta",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Menta.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Menta.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Menta.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Menta.jpg",
             "adjustment": "lutIntensity",
             "premium": true
         },
         {
             "id": "MidnightClub",
             "name": "Midnight Club",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/MidnightClub.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/MidnightClub.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/MidnightClub.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/MidnightClub.jpg",
             "adjustment": "lutIntensity"
         },
         {
             "id": "NoFlash",
             "name": "No Flash",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/NoFlash.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/NoFlash.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/NoFlash.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/NoFlash.jpg",
             "adjustment": "lutIntensity",
             "premium": true
         },
         {
             "id": "Rainbow",
             "name": "Rainbow",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Rainbow.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Rainbow.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Rainbow.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Rainbow.jpg",
             "adjustment": "lutIntensity",
             "premium": true
         },
         {
             "id": "VintageCore",
             "name": "Vintage Core",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/VintageCore.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/VintageCore.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/VintageCore.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/VintageCore.jpg",
             "adjustment": "lutIntensity",
             "premium": true
         },
         {
             "id": "Yo",
             "name": "Yo",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Yo.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Yo.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Yo.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Yo.jpg",
             "adjustment": "lutIntensity",
             "premium": true
         },
         {
             "id": "Zero",
             "name": "Zero",
-            "img": "https://danieleventura.github.io/image95-assets/app/luts/preview/Zero.png",
-            "lutPath": "https://danieleventura.github.io/image95-assets/app/luts/Zero.jpg",
+            "img": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/preview/Zero.png",
+            "lutPath": "https://pub-65548bc10264478da6ea841756b1412f.r2.dev/app/luts/Zero.jpg",
             "adjustment": "lutIntensity",
             "premium": true
         }
